@@ -1,0 +1,40 @@
+.subscribe {
+    display: flex;
+    justify-content: center;    
+  
+    font-size: 1.4rem;
+    font-weight: 500;
+    text-align: left;
+  
+    vertical-align: middle;
+  }
+
+.message {
+    font-size: 1.4rem;
+    font-weight: 400;
+    margin-top: 30vh;
+    text-overflow: wrap;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: auto;
+    padding: 0 25%;
+}
+
+.message_name {
+    font-size: 1.4rem;
+    font-weight: 400;
+    margin-bottom: 15px;
+    text-overflow: wrap;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: auto;
+    padding: 0  25% 20px 25%;
+}
+
+.subscribe-wrapper {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}

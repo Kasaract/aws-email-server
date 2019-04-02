@@ -1,0 +1,15 @@
+.card-wrapper {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 30vh;
+}
+
+.title {
+  font-size: 1.5rem;
+}
+
+.text {
+  font-size: 1.2rem;
+}
